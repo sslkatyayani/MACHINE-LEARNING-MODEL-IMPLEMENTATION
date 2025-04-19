@@ -40,4 +40,5 @@ This project demonstrates a simple implementation of a *Logistic Regression* mod
 
 ---
 
+## Output
 

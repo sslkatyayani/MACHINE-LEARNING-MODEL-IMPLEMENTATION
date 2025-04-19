@@ -34,7 +34,7 @@ This project demonstrates a simple implementation of a *Logistic Regression* mod
 
 ## Setup Instructions
 
-1. Save the Python script (e.g., logit_model.py).
+1. Save the Python script 
 2. Install required libraries
 3. Run Python Script
 
@@ -42,3 +42,4 @@ This project demonstrates a simple implementation of a *Logistic Regression* mod
 
 ## Output
 
+![Image](https://github.com/user-attachments/assets/2218507d-e5c0-4b22-8de8-5fa314218476)
